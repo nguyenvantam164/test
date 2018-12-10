@@ -5,6 +5,6 @@ setup(
     version="0.9",
     author_email="phelan@cinnamon.is",
     description="this is test repo",
-    py_modules=['my_hello'],
-    package=['package1']
+    py_modules=['my_hello', 'my_hello1'],
+    packages=['package1']
 )
