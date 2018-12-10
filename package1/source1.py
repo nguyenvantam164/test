@@ -1,1 +1,2 @@
-print("this is source of package 1")
+def show():
+    print("this is source of package 1")
