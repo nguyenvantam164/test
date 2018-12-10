@@ -1,2 +1,2 @@
 def version():
-    print("this is test file version 0.5")
+    print("this is test file version 0.7")
